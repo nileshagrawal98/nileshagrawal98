@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nilesh Kumar Agrawal</h1>
 <h3 align="center">Passionate web developer with good interpersonal and communication skills.</h3>
 
-<br>
-
 ### I always had a fondness for technology and coding. I started my journey with Java and then I learned JS, HTML, CSS, Express, React and many other web development technologies.
 - 📫 Reach me at **nileshagra1998@gmail.com**
 
 - 📄 [Resume](https://drive.google.com/file/d/1W-tl_hNPk9nSy68DdP-oZFccWqzemgB6/view?usp=sharing)
-
-<br>
 
 ### My Projects
 
 - [Snapdeal Clone](https://snapdeal-clone.netlify.app/)
 
 - [MPL Clone](https://mplclone.herokuapp.com/)
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
