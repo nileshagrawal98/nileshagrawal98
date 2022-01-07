@@ -6,7 +6,7 @@
 
 ### I'm a **Full Stack Web Developer**. I am from Raipur, Chhattisgarh and currently studying at [Masai School](https://www.masaischool.com/). I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with Java and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
 
-- 📄 [Resume](https://drive.google.com/file/d/1W-tl_hNPk9nSy68DdP-oZFccWqzemgB6/view?usp=sharing)
+#### 📄 [Resume](https://drive.google.com/file/d/17in_vZgsM2OFBCuQYc7DOwwARPShxga0/view?usp=sharing)
 
 ## Skill Set :muscle:
 
