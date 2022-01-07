@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/nileshagrawal98/nileshagrawal98/main/name.svg" alt="Nilesh Kumar Agrawal" />
+  <img src="https://github.com/nileshagrawal98/nileshagrawal98/blob/main/name.svg" alt="Nilesh Kumar Agrawal" />
 </h1>
 
 <h2>Hi There <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
