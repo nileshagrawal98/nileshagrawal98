@@ -4,9 +4,9 @@
 
 <h2>Hi There <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-### I'm a **Full Stack Web Developer**. I am from Raipur, Chhattisgarh and currently studying at [Masai School](https://www.masaischool.com/). I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with Java and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
+### I am a fullstack developer with 3 years of experience building scalable apps and tools. Proficient in modern web technologies, including React, Node.js, and more. Quick learner seeking impactful full-time opportunities.
 
-#### 📄 [Resume](https://drive.google.com/file/d/17in_vZgsM2OFBCuQYc7DOwwARPShxga0/view?usp=sharing)
+#### 📄 [Resume](https://drive.google.com/file/d/1T63G2M1GGveksJu0hxNCCaVkFhgm0IqD/view?usp=sharing)
 
 ## Skill Set :muscle:
 
@@ -20,9 +20,7 @@
 
 ## My Projects
 
-### [Snapdeal Clone](https://snapdeal-clone.netlify.app/)
-
-### [MPL Clone](https://mplclone.herokuapp.com/)
+### [Speeksy](https://www.speeksy.in/)
 
 ## Some of my stats :bar_chart:
 
